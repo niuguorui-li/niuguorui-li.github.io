@@ -1,1 +1,1 @@
-var posts=["2023/07/22/hello-world/","2023/07/19/博客/","2023/07/19/第一篇文章/","2023/07/20/第二天MYSQl/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
+var posts=["2023/07/22/hello-world/","2023/07/20/云创第一天学习笔记（MySQL）/","2023/07/22/云创第二天学习笔记（MySQL）/","2023/07/19/博客/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
